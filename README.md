@@ -1,7 +1,6 @@
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumil_007__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[https://linkedin.com/in/sumil-dholakiya](https://www.linkedin.com/in/sumil-dholakiya-48aa132a2/)](https://www.linkedin.com/in/sumil-dholakiya-48aa132a2/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumil-dholakiya-48aa132a2/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumildholakiya06@gmail.com) 
 
 # 💻 Tech Stack:
@@ -12,7 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumildholakiya&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![Snake animation](https://raw.githubusercontent.com/sumildholakiya/sumildholakiya/output/snake.svg)
 <img src="https://raw.githubusercontent.com/sumildholakiya/sumildholakiya/output/snake.svg" alt="Snake animation" />
 
 ###
