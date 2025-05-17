@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"    # daily at midnight
   workflow_dispatch:
 
 jobs:
@@ -17,6 +17,11 @@ jobs:
             dist/snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Make background transparent in SVG
+        run: |
+          # Replace white fill background with transparent
+          sed -i 's/fill="white"/fill="none"/g' dist/snake.svg
 
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
