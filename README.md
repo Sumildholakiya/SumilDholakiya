@@ -12,7 +12,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumildholakiya&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<img src="https://raw.githubusercontent.com/sumildholakiya/sumildholakiya/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/sumildholakiya/sumildholakiya/output/snake.svg)
+
 
 ###
 
