@@ -13,7 +13,7 @@
 
 
 ![Snake animation](https://raw.githubusercontent.com/sumildholakiya/sumildholakiya/output/snake.svg)
-
+<img src="https://raw.githubusercontent.com/sumildholakiya/sumildholakiya/output/snake.svg" alt="Snake animation" />
 
 ###
 
